@@ -1,6 +1,6 @@
 import React from 'react';
 
-//stateless functional component
+//function component as an arrow function
 const Weather = props => (
   <div className="weather__info">
     {props.city &&
