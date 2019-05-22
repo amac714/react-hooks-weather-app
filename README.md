@@ -12,6 +12,6 @@ npm start or yarn start
 
 # Screen Shots
 
-![ScreenShot](https://raw.github.com/amac714/react-hooks-weather-app/master/weather-hooks.png)
+![ScreenShot](https://raw.github.com/amac714/react-hooks-weather-app/master/weather-hooks2.png)
 
 
