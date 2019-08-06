@@ -8,8 +8,11 @@ For reference, class-components branch has app built using regular React class c
 
 ## To Run App
 Clone repo with `git clone https://github.com/amac714/react-hooks-weather-app.git`
+
 `cd` into cloned repo
+
 run `npm install`
+
 run `npm start`
 
 # Screen Shots
