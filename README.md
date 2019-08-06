@@ -7,8 +7,10 @@ Initially built using React class components and rebuilt with Hooks.
 For reference, class-components branch has app built using regular React class components
 
 ## To Run App
-
-npm start or yarn start
+Clone repo with `git clone https://github.com/amac714/react-hooks-weather-app.git`
+`cd` into cloned repo
+run `npm install`
+run `npm start`
 
 # Screen Shots
 
